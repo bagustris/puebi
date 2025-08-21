@@ -10,6 +10,7 @@ e* | *e*nak | p*e*tak | sor*e*
 &nbsp; | *e*mas | k*e*na | tip*e*
 i | *i*tu | s*i*mpan | murn*i*
 o | *o*leh | k*o*ta | radi*o*
+  | ek*o*r | t*o*mb*o*i | k*o*t*o*r
 u | ulang | bumi | ibu
 
 Keterangan:
